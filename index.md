@@ -1,5 +1,3 @@
-# Zsolt Grodvalt's Homepage
-
 ## Who am I?
 - MSc Electircal Engineering student in Eindhoven
 - IoT and app development hobbyist
